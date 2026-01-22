@@ -1,0 +1,12 @@
+# Git Ignore
+.vs
+.vscode
+Debug
+Release
+Win32
+x64
+x86
+*.aps
+*.sln
+*.slnx
+*.user

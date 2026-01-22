@@ -1,0 +1,15 @@
+# Git Attributes
+*.bmp           binary
+*.c             text
+*.cpp           text
+*.def           text
+*.filters       text
+*.h             text
+*.ico           binary
+*.manifest      text
+*.md            text
+*.png           binary
+*.rc            text working-tree-encoding=utf-16le-bom
+*.sln           text
+*.slnx          text
+*.vcxproj       text
